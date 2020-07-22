@@ -29,6 +29,7 @@ alias vi=gvim
 alias svi='sudo vi'
 
 # Python
+alias pu='python3 -m unittest discover tests'
 alias py=python3
 alias p=pip3
 
