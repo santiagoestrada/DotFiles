@@ -1,0 +1,13 @@
+
+alias .2='cd ../../'
+alias .3='cd ../../../'
+alias .4='cd ../../../../'
+
+alias less='less -Q'
+alias man='man -P "less -Q"'
+
+alias vi=gvim
+alias vip='gvim -p'
+alias spotify='flatpak run com.spotify.Client &'
+
+
